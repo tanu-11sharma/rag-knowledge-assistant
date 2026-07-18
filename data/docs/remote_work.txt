@@ -1,0 +1,9 @@
+Remote Work Policy
+
+Employees may work remotely up to three days per week with manager approval, recorded in the team calendar so coworkers know when someone is out of the office. Fully remote roles are approved on a case by case basis by the department head and are documented in the employee's contract.
+
+The company provides a one-time home office stipend for remote and hybrid employees to cover a desk, chair, and monitor. Internet reimbursement is available up to a fixed monthly amount with a submitted utility bill as proof.
+
+Remote employees are expected to be reachable during core hours, defined as ten in the morning to four in the afternoon in their local timezone, for meetings and urgent requests. Outside of core hours, employees may set their own schedule as long as deliverables are met on time.
+
+Security requirements for remote work include using the company VPN for internal systems and enabling full-disk encryption on any device used for work, whether company-issued or personal.
