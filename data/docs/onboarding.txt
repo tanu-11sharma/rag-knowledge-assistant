@@ -1,0 +1,9 @@
+Employee Onboarding Guide
+
+New employees receive their laptop and access badge on their first day. IT provisions accounts for email, chat, and the internal wiki before the start date. Every new hire is assigned a mentor from their team for the first 90 days. The mentor's job is to answer day-to-day questions and help the new hire navigate internal tools.
+
+Payroll runs on the last business day of each month. New hires must submit their bank details through the HR portal within the first week to receive their first paycheck on time. Benefits enrollment, including health insurance and retirement contributions, opens automatically once the employee's start date is confirmed in the HR system.
+
+All new employees complete a mandatory security training within their first two weeks. The training covers password hygiene, phishing awareness, and the company's data classification policy. Employees who do not complete the training within the deadline lose access to internal systems until it is finished.
+
+Remote employees receive their equipment by courier and are expected to complete the same onboarding checklist as in-office staff, coordinated through a virtual kickoff call with their manager.
